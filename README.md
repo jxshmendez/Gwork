@@ -1,5 +1,5 @@
 # Software Engineering Methods
-https://img.shields.io/github/actions/workflow/status/jxshmendez/Gwork/main.yml?branch=master
+![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/jxshmendez/Gwork/main.yml?branch=develop)
 
 ![workflow](https://github.com/jxshmendez/Gwork/actions/workflows/main.yml/badge.svg)
 
